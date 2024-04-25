@@ -1,0 +1,87 @@
+#title{
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 36px;
+  color: #eba14c;
+  background-color: #f8e9ce
+
+}
+
+img{
+    width: 800px;
+    height: 400px;
+    background-color: #f8e9ce;
+}
+
+body{
+    background-color: #f7cb98;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f8e9ce;
+    font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  text-align: center;
+ }   
+
+li {
+ float: center;
+ margin: 0px;
+ padding: 0px;
+ border: 2px solid #f7cb98;
+ text-align: center;
+}
+
+#about{
+    font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #f8e9ce;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#menu{
+    font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #f8e9ce;
+  font-size: 23px;
+  padding: 5px;
+}
+
+#contact{
+    font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #f8e9ce;
+}
+
+/* unvisited link */
+a:link {
+    color: #f7cb98;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #855b2c;
+  }
+
+  .footer {
+    background-color: #412c15;
+    text-align: center;
+    padding: 10px;
+  }
