@@ -4,7 +4,11 @@
   font-style: normal;
   font-size: 36px;
   color: #eba14c;
-  background-color: #f8e9ce
+  background-color: #f8e9ce;
+  border-color: #412c15;
+    border-style: dotted;
+    border-width: 3px;
+    border-spacing: 2px;
 
 }
 
@@ -52,6 +56,10 @@ li {
   background-color: #f8e9ce;
   font-size: 20px;
   padding: 5px;
+  border-color: #412c15;
+    border-style: dotted;
+    border-width: 3px;
+    border-spacing: 2px;
 }
 
 #menu{
@@ -61,6 +69,10 @@ li {
   background-color: #f8e9ce;
   font-size: 23px;
   padding: 5px;
+  border-color: #412c15;
+    border-style: dotted;
+    border-width: 3px;
+    border-spacing: 2px;
 }
 
 #contact{
@@ -68,6 +80,10 @@ li {
   font-weight: 400;
   font-style: normal;
   background-color: #f8e9ce;
+  border-color: #412c15;
+    border-style: dotted;
+    border-width: 3px;
+    border-spacing: 2px;
 }
 
 /* unvisited link */
@@ -85,13 +101,16 @@ a:link {
     text-align: center;
     padding: 10px;
     color: #f7cb98;
+    
   }
 
   #contact{
     border-color: #412c15;
     border-style: dotted;
     border-width: 3px;
-    border-spacing: 1px;
+    border-spacing: 2px;
     margin: 2px;
     padding: 2px;
   }
+
+  
